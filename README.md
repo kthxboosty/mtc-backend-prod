@@ -1,2 +1,2 @@
-# mtc-backend-prod
-backend code for MTC
+# This prod repository is for backend developers.
+Last modified by kthxboosty.
